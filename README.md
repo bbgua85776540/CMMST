@@ -1,4 +1,6 @@
 # CMMST
+This repository contains the source code for the Cross-Modal Multiscale Transformer(CMMST) model.
+
 ## Datasets
 
 Chenglei Wu, Zhihao Tan, Zhi Wang, and Shiqiang Yang. [2017]. *A Dataset for Exploring User Behaviors in VR Spherical Video Streaming.* In Proceedings of the ACM MMSys 2017. 
